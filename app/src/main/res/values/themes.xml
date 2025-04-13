@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.PolypDetector" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/light_green_primary</item>
+        <item name="colorPrimaryVariant">@color/light_green_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/dark_blue</item>
+        <item name="colorSecondaryVariant">@color/dark_blue</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/light_green_variant</item>
+        <!-- Background color -->
+        <item name="android:windowBackground">@color/light_green_primary</item>
+    </style>
+
+    <!-- Splash screen theme -->
+    <style name="Theme.SplashScreen" parent="Theme.PolypDetector">
+        <item name="android:windowBackground">@color/light_green_primary</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

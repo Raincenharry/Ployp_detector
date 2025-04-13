@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ployp Detector</string>
+    <string name="fullscreen_button_description">Toggle fullscreen mode</string>
+    <string name="pause_button_description">Play/Pause video</string>
+    <string name="video_stream_1_description">Video Stream 1</string>
+    <string name="video_stream_2_description">Video Stream 2</string>
+    <string name="refresh_button_description">Refresh streaming</string>
+    <string name="enter_server_ip_e_g_http_10_73_14_153_5000">Enter server IP (e.g. http://10.73.14.153:5000)</string>
+</resources>
